@@ -8,16 +8,7 @@
           <mxGeometry height="60" width="30" x="90" y="280" as="geometry" />
         </mxCell>
         <mxCell id="4EeO1O2VGO7lYiiR0f-3-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Search for events by name" vertex="1">
-          <mxGeometry height="80" width="120" x="210" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4EeO1O2VGO7lYiiR0f-3-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Book Events" vertex="1">
-          <mxGeometry height="80" width="120" x="340" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="4EeO1O2VGO7lYiiR0f-3-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View Bookings" vertex="1">
-          <mxGeometry height="80" width="120" x="210" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="4EeO1O2VGO7lYiiR0f-3-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel bookings" vertex="1">
-          <mxGeometry height="80" width="120" x="370" y="420" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4EeO1O2VGO7lYiiR0f-3-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4EeO1O2VGO7lYiiR0f-3-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -25,32 +16,67 @@
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EeO1O2VGO7lYiiR0f-3-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4EeO1O2VGO7lYiiR0f-3-7" value="">
+        <mxCell id="4EeO1O2VGO7lYiiR0f-3-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="220" y="410" as="targetPoint" />
+            <mxPoint x="294" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f76L-ymLgkQ6SMqK9X1L-1" edge="1" parent="1" source="4EeO1O2VGO7lYiiR0f-3-6" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="4EeO1O2VGO7lYiiR0f-3-5" value="">
+        <mxCell id="GIShkhfvweNNLPR029BR-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View bookings" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel bookings for the Event" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel Events" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Add events" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View all events" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel bookings" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Book events" vertex="1">
+          <mxGeometry height="70" width="120" x="294" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="420" y="190" as="sourcePoint" />
-            <mxPoint x="470" y="140" as="targetPoint" />
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="424" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f76L-ymLgkQ6SMqK9X1L-3" connectable="0" parent="f76L-ymLgkQ6SMqK9X1L-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&amp;lt;extends&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0213" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f76L-ymLgkQ6SMqK9X1L-2" edge="1" parent="1" source="4EeO1O2VGO7lYiiR0f-3-8" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.088;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" target="4EeO1O2VGO7lYiiR0f-3-7" value="">
+        <mxCell id="GIShkhfvweNNLPR029BR-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="350" y="440" as="sourcePoint" />
-            <mxPoint x="400" y="390" as="targetPoint" />
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="464" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f76L-ymLgkQ6SMqK9X1L-4" connectable="0" parent="f76L-ymLgkQ6SMqK9X1L-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&amp;lt;extends&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.0479" y="-1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="GIShkhfvweNNLPR029BR-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="434" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="474" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="404" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIShkhfvweNNLPR029BR-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="364" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
