@@ -5,78 +5,78 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4EeO1O2VGO7lYiiR0f-3-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Venue Staff" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="280" as="geometry" />
+          <mxGeometry height="60" width="30" x="90" y="285" as="geometry" />
         </mxCell>
         <mxCell id="4EeO1O2VGO7lYiiR0f-3-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Search for events by name" vertex="1">
           <mxGeometry height="70" width="120" x="294" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="4EeO1O2VGO7lYiiR0f-3-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4EeO1O2VGO7lYiiR0f-3-5" value="">
+        <mxCell id="4EeO1O2VGO7lYiiR0f-3-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="440" y="290" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="294" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EeO1O2VGO7lYiiR0f-3-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="294" y="290" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="294" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View bookings" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="150" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="155" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel bookings for the Event" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="500" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="505" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel Events" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="430" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="435" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Add events" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="360" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="365" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View all events" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="290" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="295" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancel bookings" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="220" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="225" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Book events" vertex="1">
-          <mxGeometry height="70" width="120" x="294" y="80" as="geometry" />
+          <mxGeometry height="70" width="120" x="294" y="85" as="geometry" />
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="424" y="290" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="424" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="464" y="120" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="464" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="434" y="350" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="434" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="474" y="400" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="474" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="404" y="440" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="404" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIShkhfvweNNLPR029BR-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GIShkhfvweNNLPR029BR-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="364" y="380" as="targetPoint" />
+            <mxPoint x="130" y="315" as="sourcePoint" />
+            <mxPoint x="364" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
